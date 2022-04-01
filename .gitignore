@@ -1,0 +1,5 @@
+dist/
+node_modules/
+src/mqtt/
+package-lock.json
+.env
